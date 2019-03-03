@@ -22,7 +22,7 @@
 * Git
 
 ## Education:
-* a second-year student at **[BSUIR]**(https://www.bsuir.by/)
+* a second-year student at **[BSUIR](https://www.bsuir.by/)**
 * [Freecodecamp](https://www.freecodecamp.org)
 * [Codecademy](https://www.codecademy.com)
 * [HTMLAcademy](https://htmlacademy.ru/)
