@@ -9,7 +9,7 @@
 * [Vk.com](https://vk.com/id136435427)  
 
 ## Summary:
-* The main goal is get knowledge and go to work in this year as **JAVASCRIPT DEVELOPMENT**
+* The main goal is get to knowledge and go to work in this year as **JAVASCRIPT DEVELOPMENT**
 * Hard-working
 * Industrious
 * Constantly evolving
